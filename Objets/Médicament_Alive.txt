@@ -1,0 +1,4 @@
+Médiacment ALIVE
+
+Contrôle le virus, ralentit les effets des contaminés de 20% dans sa première version
+En l'ameliorant sont pourcentage augmante de 20% à chaque amélioration
